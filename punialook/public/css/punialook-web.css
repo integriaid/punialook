@@ -104,15 +104,3 @@
 	border-radius:0;
 	background-color: #fff;
 }
-/*.page-card .page-card-head{
-	background-color: #7E529E;
-}*/
-/*.page-card .page-card-head .indicator{
-	color: #fff;
-}*/
-/*.indicator::before{
-	border: solid 1px #fff;
-}*/
-.form-footer{
-	display: none;
-}
