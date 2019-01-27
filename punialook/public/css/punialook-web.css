@@ -1,8 +1,8 @@
 .navbar {
-	/*background-color: #7E529E;
-	background-repeat: repeat-x;
-	background-image: none;*/
-	background: transparent;
+	background-color: #EE6A3C;
+	/*background-repeat: repeat-x;
+	background-image: none;
+	background: transparent;*/
 	/* border: none; */
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -18,6 +18,13 @@
 .navbar-default .navbar-nav > li > a:visited {
 	color: #36414c;
 }*/
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+btn-primary {
+	background-color: #354582;
+	border-color: #354582;
+}
 .web-footer {
 	/*background: linear-gradient(#AB69B8, #474b91);*/
 	background: transparent;
