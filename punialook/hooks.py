@@ -127,7 +127,7 @@ web_include_js = "/assets/punialook/js/punialook.js"
 
 # punia images
 website_context = {
-	"favicon": "/assets/punialook/img/favicon.ico",
+	"favicon": "/assets/punialook/img/logo-ico.png",
 	"email_brand_image": "assets/punialook/img/punia-logo.png",
 	"splash_image": "assets/punialook/img/online-store.png",
 	"company_logo": "assets/punialook/img/p-logo.png"
